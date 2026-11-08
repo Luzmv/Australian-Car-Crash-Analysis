@@ -16,7 +16,7 @@ This project analyzes vehicular crash data in Australia to identify key trends, 
 
 <img width="1841" height="1032" alt="image" src="https://github.com/user-attachments/assets/da1e2e72-6f3b-459f-84f8-88c64b0a32ac" />
 
-<img width="1858" height="1035" alt="image" src="https://github.com/user-attachments/assets/3575964a-cf32-4044-b755-863e5dc5443a" />
+<img width="1797" height="1019" alt="image" src="https://github.com/user-attachments/assets/bc1ca489-253c-40f4-9a88-3d6c985ff86d" />
 
 <img width="1786" height="1000" alt="image" src="https://github.com/user-attachments/assets/c1ac9e2e-0783-4a11-88fe-81b4c50e3f2d" />
 
